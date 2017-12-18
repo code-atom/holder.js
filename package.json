@@ -1,0 +1,15 @@
+{
+  "name": "holder.js",
+  "version": "1.0.0",
+  "description": "holder.js let you manage the indexedDB on browser ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ankit rana",
+  "license": "ISC",
+  "dependencies": {
+    "promise": "^8.0.1",
+    "tiny-emitter": "^2.0.2"
+  }
+}
