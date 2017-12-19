@@ -9,6 +9,7 @@
   "author": "ankit rana",
   "license": "ISC",
   "dependencies": {
+    "fake-indexeddb": "^2.0.3",
     "promise": "^8.0.1",
     "tiny-emitter": "^2.0.2"
   }
